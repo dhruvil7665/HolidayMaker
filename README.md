@@ -14,7 +14,7 @@ Post or even a User which will be notified to them. This is a consumer to consum
 
 <h2>Technology Used:</h2>
 <br>
-Based on Spring Framework and Hibernate.
-Front End: HTML5, CSS3, SCSS, Spring Framework, Bootstrap4, JavaScript, JQuery, AJAX, JSP, EL, JSTL
-Back End: Spring MVC Controllers and Hibernate, Advance JAVA, Junit Testing.
-Database: MySQL
+Based on Spring Framework and Hibernate.<br>
+Front End: HTML5, CSS3, SCSS, Spring Framework, Bootstrap4, JavaScript, JQuery, AJAX, JSP, EL, JSTL <br>
+Back End: Spring MVC Controllers and Hibernate, Advance JAVA, Junit Testing. <br>
+Database: MySQL<br>
