@@ -1,6 +1,6 @@
 # HolidayMaker
 A Website To Enhance Your Travel Experience developed using Spring Framework and Hibernate
-
+<hr>
 <h2>Summary:</h2>
 <br>
 HolidayMakeris an online website that aids travelers to get information on travel destination from the available
@@ -12,8 +12,9 @@ bloggers to get a one stop application who wish to preach their experience to th
 like/dislike and comment on an active post which will be used by Admin for Dashboarding. Admin can delete a
 Post or even a User which will be notified to them. This is a consumer to consumer-based business model
 
-Technology Used:
-Based on Spring MVC and Hibernate.
+<h2>Technology Used:</h2>
+<br>
+Based on Spring Framework and Hibernate.
 Front End: HTML5, CSS3, SCSS, Spring Framework, Bootstrap4, JavaScript, JQuery, AJAX, JSP, EL, JSTL
 Back End: Spring MVC Controllers and Hibernate, Advance JAVA, Junit Testing.
 Database: MySQL
