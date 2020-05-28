@@ -1,7 +1,8 @@
 # HolidayMaker
 A Website To Enhance Your Travel Experience developed using Spring Framework and Hibernate
 
-Summary:
+<h2>Summary:</h2>
+<br>
 HolidayMakeris an online website that aids travelers to get information on travel destination from the available
 posts on the websites. The posts are nothing but details about a completed travel by a traveler who can also
 display a detail itinerary of his trip with exclusive information and pictures that makes the website attractive
